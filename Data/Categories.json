@@ -1,46 +1,46 @@
 [
     {
-        "category_id": "01",
-        "category_name": "Breaking News"
+        "id": "01",
+        "name": "Breaking News"
     },
     {
-        "category_id": "02",
-        "category_name": "Regular News"
+        "id": "02",
+        "name": "Regular News"
     },
     {
-        "category_id": "03",
-        "category_name": "International News"
+        "id": "03",
+        "name": "International News"
     },
     {
-        "category_id": "04",
-        "category_name": "Sports"
+        "id": "04",
+        "name": "Sports"
     },
     {
-        "category_id": "05",
-        "category_name": "Hot News"
+        "id": "05",
+        "name": "Hot News"
     },
     {
-        "category_id": "06",
-        "category_name": "IPL News"
+        "id": "06",
+        "name": "IPL News"
     },
     {
-        "category_id": "07",
-        "category_name": "USA News"
+        "id": "07",
+        "name": "USA News"
     },
     {
-        "category_id": "08",
-        "category_name": "Edtech News"
+        "id": "08",
+        "name": "Edtech News"
     },
     {
-        "category_id": "09",
-        "category_name": "Gamming News"
+        "id": "09",
+        "name": "Gamming News"
     },
     {
-        "category_id": "10",
-        "category_name": "News BD"
+        "id": "10",
+        "name": "News BD"
     },
     {
-        "category_id": "11",
-        "category_name": "UK News"
+        "id": "11",
+        "name": "All News"
     }
 ]
